@@ -137,7 +137,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id_user`, `surname`, `name`, `otchestvo`, `phone`, `email`, `username`, `password`, `user_type_id`) VALUES
-(1, 'Мирон', 'Артем', 'Сергеевич', 89776016667, 'kymuskrolik@gmail.com', 'adminka', '5f4dcc3b5aa765d61d8327deb882cf99', 2),
+(1, 'Денисов', 'Арсений', 'Петрович', 89253777296, 'tiptop2001a@gmail.com', 'adminka', '5f4dcc3b5aa765d61d8327deb882cf99', 2),
 (2, 'test', 'test', 'test', 79999999999, 'test@mail.ru', 'test', '098f6bcd4621d373cade4e832627b4f6', 1),
 (3, 'test2', 'test2', 'test2', 79998887766, 'test2@mail.ru', 'test2', 'c4d8a57e2ca5dc5d71d2cf3dbbbbaabe', 1),
 (4, 'Фамилия1', 'Имя1', 'Отчество1', 81111111111, 'Email@email.email', 'xDaer', '220466675e31b9d20c051d5e57974150', 1),
